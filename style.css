@@ -62,14 +62,5 @@ h1 :nth-child(7) {
   animation-delay: 2.85S
 }
 h1 :nth-child(8) {
-  animation-delay: 2.95s;
-}
-h1 :nth-child(9) {
-  animation-delay: 3s;
-}
-h1 :nth-child(10) {
-  animation-delay: 3.5S;
-}
-h1 :nth-child(10) {
-  animation-delay: 3.25S;
+  animation-delay: 3S
 }
